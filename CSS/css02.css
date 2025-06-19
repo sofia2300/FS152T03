@@ -1,0 +1,10 @@
+body {
+    background-color: bisque;
+    padding: 30px;
+}
+.block {
+    display: block;
+}
+img {
+    border: 4px solid black;
+}

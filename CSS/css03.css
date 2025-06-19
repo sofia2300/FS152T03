@@ -1,0 +1,28 @@
+.contenedor {
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+}
+.bloque1 {
+    display: block;
+    background-color: #D0E8C5;
+    color: #A6AEBF;
+    border: 2px solid #C5D3E8;
+    padding: 12px 16px;
+}
+
+.bloque2 {
+    display: block;
+    background-color: #D8EFD3;
+    color: #95D2B3;
+    border: 2px solid #55AD9B;
+    padding: 12px 16px;
+}
+
+.bloque3 {
+    display: block;
+    background-color: #F6FB7A;
+    color: #88D66C;
+    border: 2px solid #73BBA3;
+    padding: 12px 16px;
+}
