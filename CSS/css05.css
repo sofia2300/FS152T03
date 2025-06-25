@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body{
+    background-color: #471396;
+}
+h2 {
+    color: #FFCC00;
+    text-align: center;
+    padding-top: 20px;
+}
+.card {
+    width: 80%;
+    max-width: 350px;
+    background-color: #FFCC00;
+    color: #090040;
+    margin: 40px auto;
+    margin-top: 80px;
+    padding: 24px 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin: 10px auto;
+}
+
+.titulo {
+    border: 2px solid #471396;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    color: #B13BFF;
+}
+
+.parrafouno {
+    text-transform: uppercase;
+    text-align: justify;
+    padding-top: 10px;
+    color: #471396;
+}
+
+.parrafodos {
+    text-transform: lowercase;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}

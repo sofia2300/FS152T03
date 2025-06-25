@@ -1,0 +1,10 @@
+.contenedor1 {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    border: 20px groove darkmagenta;
+}
+
+.contenedor2 {
+    padding: 40px;
+    border: 20px solid darkorange
+}

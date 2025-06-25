@@ -1,0 +1,38 @@
+body {
+    background-color: #FFF2E0;
+}
+h2 {
+    color: #FFF2E0;
+}
+h3 {
+    color: #898AC4;
+}
+.encabezado {
+    background-color: #898AC4;
+    padding: 20px 30px 20px 30px;
+    border-style: 4px solid #FFF2E0 ;
+}
+
+.desarrollo {
+    padding: 30px;
+}
+
+.desarrollo2 {
+    background-color: #C0C9EE;
+    padding: 30px;
+}
+
+.desarrollo3 {
+    padding: 30px;
+}
+
+.pie {
+    background-color: #898AC4;
+    padding: 30px;
+    text-align: center;
+}
+h3 {
+    color: #898AC4;
+    padding: 20px;
+    border-style: 2px solid #A2AADB;
+}
